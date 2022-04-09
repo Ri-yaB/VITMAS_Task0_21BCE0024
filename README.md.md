@@ -4,7 +4,7 @@
 Git is distributed version-control system for tracking changes in any set of files. Here are the few basic commands used in git.
 
 
-# *git init*
+# *git int*
 
  This command turns a directory into an empty Git repository 
 
@@ -152,9 +152,6 @@ This command is used to list the version history for the current branch.
 ```{r setup, include=FALSE}
                     git log
 ```
-# YOUTUBE DEMONSTRATION
-
-Link :- 
 
 # CHEAT SHEET FOR MARKDOWN SYNTAX
 
